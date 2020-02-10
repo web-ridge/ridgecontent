@@ -7,3 +7,5 @@ Modern headless CMS system and very simple for end-user and developer
 - Clear difference between end-user and developer
 - Easy way to make own data models and relationships
 - Provide data via GraphQL api
+- Support for React.js
+- Layout via React Native (Web)
