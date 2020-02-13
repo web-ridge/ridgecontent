@@ -9,3 +9,4 @@ Modern headless CMS system and very simple for end-user and developer
 - Provide data via GraphQL api
 - Support for React.js
 - Layout via React Native (Web)
+- Templating
